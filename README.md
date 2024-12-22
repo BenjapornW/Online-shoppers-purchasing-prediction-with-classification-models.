@@ -72,11 +72,14 @@ The analysis focused on identifying patterns and trends across various features 
 - **Weekend Effect Is Minimal**: Purchases are not significantly skewed toward weekends.
 - **Engagement Matters**: Longer durations on informational and product-related pages positively influence purchase likelihood.
 
-## Technologies Used
+## 🛠 Technology Stack
+- ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+- ![Seaborn](https://img.shields.io/badge/Seaborn-%23006699.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
 
-- **Python**: Data analysis and visualization
-- **Pandas & NumPy**: Data cleaning and manipulation
-- **Matplotlib & Seaborn**: Visualizations
 
 ## References
 
